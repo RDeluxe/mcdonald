@@ -47,5 +47,9 @@
 			"renderGloss": true
 		}
 	},
-	"sdkVersion": "release-0.1.3"
+	"resources": {},
+	"targets": {},
+	"groups": {},
+	"fonts": [],
+	"sdkVersion": "release-0.1.7"
 }
