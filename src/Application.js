@@ -36,7 +36,7 @@ exports = Class(GC.Application, function() {
 			canvas = new Map({
 				superview: this.view,
 				width: device.width - 50,
-				height: device.height - 150
+				height: device.height - 150,
 				zIndex: 0,
 				x: 25,
 				y: 125

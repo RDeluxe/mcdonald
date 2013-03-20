@@ -1,6 +1,7 @@
 //sdk imports
 import ui.View;
 import device;
+import ui.Engine as Engine;
 
 
 exports = Class(ui.View, function() {
@@ -17,7 +18,7 @@ exports = Class(ui.View, function() {
 
     this.render = function(context) {
 
-         this.build(context);
+        this.build(context);
 
     };
 });
