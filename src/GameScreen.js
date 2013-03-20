@@ -70,8 +70,6 @@ function start_game_flow() {
 
 function emit_game_flow_event() {
 
-	var map = new Map(40, 40);
 
 
 }
-
