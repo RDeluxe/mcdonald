@@ -6,9 +6,8 @@ import src.TileView as TileView;
 
 exports = Class(ui.ScrollView, function(supr) {
 
-	var nTilesX = 40;
-	var nTilesY = 40;
-	var tileWidth = 32;
+	var nTilesX = 60;
+	var nTilesY = 60;
 	var tileHeight = 32;
 
 	this.init = function(opts) {
